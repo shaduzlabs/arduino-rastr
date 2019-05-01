@@ -9,7 +9,7 @@
 
 #define RASTR_VERSION_MAJOR 0
 #define RASTR_VERSION_MINOR 1
-#define RASTR_VERSION_MICRO 0
+#define RASTR_VERSION_MICRO 1
 
 #include <rastr/CanvasMonochrome.hpp>
 #include <rastr/CanvasGrayscale8.hpp>
